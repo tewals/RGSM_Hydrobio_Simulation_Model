@@ -1,0 +1,19 @@
+Strategy,Description,WYtype,Type,Jan,Feb,March,April,May,June,July,Aug,Sept,Oct,Nov,Dec,Discretionary,Storage
+0,NoAction,low,prop,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,NoAction,midlow,prop,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,NoAction,highlow,prop,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,NoAction,mid,prop,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,NoAction,highmid,prop,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,NoAction,high,prop,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,A Spring Low,low,prop,0,0,0,0,1,1,0,0,0,0,0,0,-1,0
+1,A Spring Low,midlow,prop,0,0,0,0,1,1,0,0,0,0,0,0,-1,0
+1,A Spring Low,highlow,prop,0,0,0,0,1,1,0,0,0,0,0,0,-1,0
+1,A Spring Low,mid,prop,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,A Spring Low,highmid,prop,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,A Spring Low,high,prop,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,A Both Low,low,prop,0,0,0,0,1,1,1,1,1,0,0,0,-1,0
+2,A Both Low,midlow,prop,0,0,0,0,1,1,1,1,1,0,0,0,-1,0
+2,A Both Low,highlow,prop,0,0,0,0,1,1,1,1,1,0,0,0,-1,0
+2,A Both Low,mid,prop,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,A Both Low,highmid,prop,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,A Both Low,high,prop,0,0,0,0,0,0,0,0,0,0,0,0,0,0
