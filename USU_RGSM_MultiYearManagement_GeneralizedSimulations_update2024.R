@@ -115,7 +115,7 @@ sample.month<-c(rep(1,31),rep(2,28),rep(3,31),rep(4,30),
 sample.day<-c(seq(1,31),seq(1,28),seq(1,31),seq(1,30),
               seq(1,31),seq(1,30),seq(1,31),seq(1,31),
               seq(1,30),seq(1,31),seq(1,30),seq(1,31))
-sample.cols<-cbind(sample.dat[,2],sample.month,sample.day,sample.dat[,1])
+sample.cols<-cbind(sample.dat[,1],sample.month,sample.day,sample.dat[,2])
 colnames(sample.cols)<-c("year","month","day","doy")
 
 #############################################
